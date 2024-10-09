@@ -11,7 +11,7 @@ FRAMEWORKS:
 
 
 
-Software development:
+🛠️ Software development:
 - Front ends: Python(Tkinker, pyQt)
 - Back ends: Python(Django, Flask) and Java (Spring)
 
