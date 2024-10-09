@@ -1,11 +1,19 @@
 🚀 About Me
 
-I am Edrian Aldrin C. Mariñas, currently pursuing a degree in Information Technology. I'm actively exploring the exciting world of Python and Java, always eager to learn more and refine my skills in developing innovative solutions.
+Currently pursuing a degree in Information Technology. My primary goal is to become a software developer because I genuinely enjoy building systems. My secondary interest is web development, as there are many systems integrated into websites as well. I’m particularly passionate about Python and Java, which are my main programming languages.
+
 - 👀 I am very interested in the creative challenges of building efficient systems and applications.
 - 🌱 I’m currently learning on Our Lady of Fatima University as an BS in Information Technology
 - ⚡ A gamer.  
 
-<!---
-apmedri/apmedri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+FRAMEWORKS: 
+Software development:
+Front ends: Python(Tkinker, pyQt) 
+Back ends: Python(Django, Flask) and Java (Spring)
+
+Web Development
+Front ends: HTML and JavaScript 
+Back ends: Python(Django, Flask) and Java(Spring)
+
+
