@@ -8,13 +8,12 @@ Currently pursuing a degree in Information Technology. My primary goal is to bec
 
 
 FRAMEWORKS: 
+* Software development:
+- Front ends: Python(Tkinker, pyQt)
+- Back ends: Python(Django, Flask) and Java (Spring)
 
-- Software development:
-  Front ends: Python(Tkinker, pyQt) 
-  Back ends: Python(Django, Flask) and Java (Spring)
-
-- Web Development
-  Front ends: HTML and JavaScript 
-  Back ends: Python(Django, Flask) and Java(Spring)
+* Web Development
+- Front ends: HTML and JavaScript
+- Back ends: Python(Django, Flask) and Java(Spring)
 
 
