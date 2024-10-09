@@ -15,7 +15,7 @@ Software development:
 - Front ends: Python(Tkinker, pyQt)
 - Back ends: Python(Django, Flask) and Java (Spring)
 
-  Web Development
+Web Development
 - Front ends: HTML and JavaScript
 - Back ends: Python(Django, Flask) and Java(Spring)
 
